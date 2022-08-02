@@ -1,0 +1,7 @@
+# ninja log v5
+55	78	1651376926864092206	Battery_information	81d5e208657382cc
+0	35	1651376352938816282	CMakeFiles/Battery_information.dir/main.c.o	2758710ac33913a4
+0	55	1651376926840091987	CMakeFiles/Battery_information.dir/functions.c.o	fc7cc1904ceb31ef
+1	29	1651379297505664130	CMakeFiles/Battery_information.dir/main.c.o	2d5cd9a39dfd396f
+1	52	1651379297533664385	CMakeFiles/Battery_information.dir/functions.c.o	1678152e18f7749f
+52	71	1651379297553664567	Battery_information	81d5e208657382cc

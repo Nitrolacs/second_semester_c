@@ -1,0 +1,4 @@
+/snap/clion/190/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/snap/clion/190/bin/ninja/linux/ninja -G Ninja -S "/home/nitrolacs/c programming/lab_7/medical_history" -B "/home/nitrolacs/c programming/lab_7/medical_history/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/nitrolacs/c programming/lab_7/medical_history/cmake-build-debug

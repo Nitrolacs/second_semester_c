@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650114051 source:/home/nitrolacs/c programming/lab_4/Perrin_number/main.c
+	<stdio.h>
+	<stdlib.h>
+	"myMath.h"
+
+1650114051 /home/nitrolacs/c programming/lab_4/Perrin_number/myMath.h
+

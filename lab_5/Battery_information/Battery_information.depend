@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1650685294 source:/home/nitrolacs/c programming/lab_4/Battery_information/main.c
+	<stdio.h>
+	"structure.h"
+
+1650685606 /home/nitrolacs/c programming/lab_4/Battery_information/structure.h
+
+1650688547 source:/home/nitrolacs/c programming/lab_5/Battery_information/main.c
+	<stdio.h>
+	"structure.h"
+	"functions.h"
+
+1650688348 /home/nitrolacs/c programming/lab_5/Battery_information/functions.h
+
+1650685606 /home/nitrolacs/c programming/lab_5/Battery_information/structure.h
+

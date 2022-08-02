@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647868190 source:/home/nitrolacs/c programming/lab_2/Kronecker_product/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

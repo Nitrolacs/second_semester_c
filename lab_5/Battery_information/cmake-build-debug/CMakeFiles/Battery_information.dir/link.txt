@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/Battery_information.dir/functions.c.o CMakeFiles/Battery_information.dir/main.c.o -o Battery_information 

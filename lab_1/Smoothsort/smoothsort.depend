@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1644912821 source:/home/nitrolacs/c programming/smoothsort/main.c
+	<stdio.h>
+
+1645067952 source:/home/nitrolacs/c_programming/smoothsort/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1645940246 source:/home/nitrolacs/c programming/lab_1/smoothsort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1645940246 source:/home/nitrolacs/c programming/lab_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1645940246 source:/home/nitrolacs/c programming/lab_1/Smoothsort/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

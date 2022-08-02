@@ -1,0 +1,3 @@
+/home/nitrolacs/c programming/lab_3/round_brackets/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nitrolacs/c programming/lab_3/round_brackets/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nitrolacs/c programming/lab_3/round_brackets/cmake-build-debug/CMakeFiles/round_brackets.dir

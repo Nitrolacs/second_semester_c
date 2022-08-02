@@ -1,0 +1,3 @@
+/home/nitrolacs/c programming/lab_4/Perrin_number/cmake-build-debug/CMakeFiles/Perrin_number.dir
+/home/nitrolacs/c programming/lab_4/Perrin_number/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nitrolacs/c programming/lab_4/Perrin_number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
